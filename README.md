@@ -34,7 +34,7 @@ Project is created with:
 Java 8
 
 Sprint Planning
-https://trello.com/b/aaO33cot/lockedmecom
+https://trello.com/b/QrgNO6Ho
 
 Setup
 Run this as a Java project
